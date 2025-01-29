@@ -1,0 +1,5 @@
+flask
+flask-mongoengine
+flask-jwt-extended
+flask-cors
+flask-migrate
